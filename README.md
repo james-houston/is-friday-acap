@@ -21,7 +21,7 @@ Then let the ACAP trigger an event that says it's Friday.
 the API schema is as follows:
 ```json
 {
-    "friday": bool
+    "friday": boolean
 }
 ```
 So there are no other days of the week, and we only have to check the boolean state of `friday`. The ACAP polls the API every 5 seconds to check the value.
