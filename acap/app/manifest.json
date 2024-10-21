@@ -1,0 +1,12 @@
+{
+    "schemaVersion": "1.3",
+    "acapPackageConf": {
+        "setup": {
+            "appName": "friday_event",
+            "vendor": "James Houston LLC",
+            "version": "1.0.0",
+            "runMode": "respawn",
+            "embeddedSdkVersion": "3.0"
+        }
+    }
+}
